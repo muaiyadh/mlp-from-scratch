@@ -1,4 +1,9 @@
 # Multilayer Perceptron model from scratch in MATLAB
+## Dataset:
+Download the MNIST dataset to be used with MATLAB from https://lucidar.me/en/matlab/files/mnist.mat
+
+After that, put the `mnist.mat` file in the `Data` folder
+
 ## Execution:
 1. Open the "Neural_Network_From_Scratch_MNIST.m" file from the "Source Code" folder in MATLAB. Make sure the workspace is in the "Source Code" folder, so the code can find the dataset correctly.
 
